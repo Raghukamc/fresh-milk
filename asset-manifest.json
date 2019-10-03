@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Raghukamc/fresh-milk.git/static/js/main.db29366b.chunk.js",
+    "main.js.map": "/Raghukamc/fresh-milk.git/static/js/main.db29366b.chunk.js.map",
+    "runtime-main.js": "/Raghukamc/fresh-milk.git/static/js/runtime-main.28348068.js",
+    "runtime-main.js.map": "/Raghukamc/fresh-milk.git/static/js/runtime-main.28348068.js.map",
+    "static/css/2.0624914a.chunk.css": "/Raghukamc/fresh-milk.git/static/css/2.0624914a.chunk.css",
+    "static/js/2.f1b5d57d.chunk.js": "/Raghukamc/fresh-milk.git/static/js/2.f1b5d57d.chunk.js",
+    "static/js/2.f1b5d57d.chunk.js.map": "/Raghukamc/fresh-milk.git/static/js/2.f1b5d57d.chunk.js.map",
+    "index.html": "/Raghukamc/fresh-milk.git/index.html",
+    "precache-manifest.7ec3e1c54941b6a7e70c5e3deab5d6b9.js": "/Raghukamc/fresh-milk.git/precache-manifest.7ec3e1c54941b6a7e70c5e3deab5d6b9.js",
+    "service-worker.js": "/Raghukamc/fresh-milk.git/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Raghukamc/fresh-milk.git/static/css/2.0624914a.chunk.css.map",
+    "static/media/banner1.jpg": "/Raghukamc/fresh-milk.git/static/media/banner1.d7e5b3b0.jpg",
+    "static/media/banner2.jpg": "/Raghukamc/fresh-milk.git/static/media/banner2.09dd4fcf.jpg",
+    "static/media/banner3.jpg": "/Raghukamc/fresh-milk.git/static/media/banner3.f5c6da7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28348068.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.f1b5d57d.chunk.js",
+    "static/js/main.db29366b.chunk.js"
+  ]
+}
