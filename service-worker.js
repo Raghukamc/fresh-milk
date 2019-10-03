@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Raghukamc/fresh-milk.git/precache-manifest.7ec3e1c54941b6a7e70c5e3deab5d6b9.js"
+  "/Raghukamc/fresh-milk.git/precache-manifest.6fcded35c3812a5ef767cb1f7edb40a4.js"
 );
 
 self.addEventListener('message', (event) => {

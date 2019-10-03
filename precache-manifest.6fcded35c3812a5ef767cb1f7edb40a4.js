@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f821c1f7df2edb9400d63a97ddc29032",
+    "revision": "240db12679bb302e647bccb3d88e9bc0",
     "url": "/Raghukamc/fresh-milk.git/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Raghukamc/fresh-milk.git/static/js/2.f1b5d57d.chunk.js"
   },
   {
-    "revision": "92a1dcf41a134007aaa1",
-    "url": "/Raghukamc/fresh-milk.git/static/js/main.db29366b.chunk.js"
+    "revision": "87c350cfeea20bd2fbd8",
+    "url": "/Raghukamc/fresh-milk.git/static/js/main.39a981a7.chunk.js"
   },
   {
     "revision": "f7edf94c4df8d5b9200a",
